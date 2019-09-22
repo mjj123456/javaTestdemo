@@ -10,5 +10,5 @@ public class controller {
     }
 	
 	
-	//
+	//添加了单点登录功能
 }
